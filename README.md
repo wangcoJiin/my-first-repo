@@ -75,4 +75,14 @@
 
 ## 주요 변경사항
 - 기본 요구 사항 완료하였습니다
+
+### 스크린샷
+![User_test](https://github.com/user-attachments/assets/cf986ce7-2bea-4ba4-94eb-3132f272d36a)
+g)
+![Channel_test1](https://github.com/user-attachments/assets/f35a3061-7825-4ec9-a991-82a223ba1775)
+![Channel_test2](https://github.com/user-attachments/assets/e4b85b98-5a8e-4b59-a241-b186b68b5c6a)
+![Message_test](https://github.com/user-attachments/assets/9f00159c-5003-44f8-8591-a50b5e32f943)
+
+
+### 멘토에게
 - 심화 요구 사항은 새로운 브랜치에서 리뷰 요청 드리겠습니다.
