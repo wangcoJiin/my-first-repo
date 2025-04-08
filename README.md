@@ -26,7 +26,8 @@
         * [x] createdAt, updatedAt: 각각 객체의 생성, 수정 시간을 유닉스 타임스탬프로 나타내기 위한 필드로 Long 타입으로 선언합니다.
     - [x] User
     - [x] Channel
-    - [x] Message       
+    - [x] Message
+          
 - [x] 생성자
     * [x] id는 생성자에서 초기화하세요.
     * [x] createdAt는 생성자에서 초기화하세요.
